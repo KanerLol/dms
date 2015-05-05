@@ -1,0 +1,9 @@
+{
+  "addFuel": {
+               "category": "master",
+               "sounds": [
+                {"name": "addFuelFlare",
+                 "stream": false}
+                         ]
+    }
+  }
